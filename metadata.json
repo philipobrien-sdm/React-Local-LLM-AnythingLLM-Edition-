@@ -1,0 +1,5 @@
+{
+  "name": "React - Local LLM (AnythingLLM Edition)",
+  "description": "A proof of concept client to connect to a local Ollama instance via custom host and port.",
+  "requestFramePermissions": []
+}
