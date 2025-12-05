@@ -4,7 +4,8 @@ A powerful Proof of Concept (PoC) React application bridging modern web UIs—sp
 
 While it supports raw **Ollama** connections, this application is optimized for **AnythingLLM**, providing a full Graphical Interface for your local RAG (Retrieval Augmented Generation) pipelines.
 
-![App Configuration](./docs/configuration_placeholder.png)
+<img width="700" height="350" alt="Screenshot 2025-12-05 175930" src="https://github.com/user-attachments/assets/508bcaf4-90eb-48d5-b807-8da6bd59e234" />
+
 
 ## 🚀 Why Local + AnythingLLM?
 
@@ -96,7 +97,8 @@ The app includes a dedicated **API Playground** panel when connected to Anything
 3.  **Update Embeddings**: Forces AnythingLLM to re-read your documents and update the vector database.
 4.  **Admin Functions**: If your API key has admin privileges, you can manage users and system settings.
 
-![Example Output](./docs/output_placeholder.png)
+<img width="1104" height="634" alt="Screenshot 2025-12-05 193005" src="https://github.com/user-attachments/assets/05f7a3fc-7528-468b-b20e-f9fd62651483" />
+
 
 ## 🔧 Troubleshooting
 
